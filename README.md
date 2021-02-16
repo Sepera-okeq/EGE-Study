@@ -35,7 +35,7 @@ Materials for preparing for the Unified State Exam 2021 and practical files!
 - [ ] 7
 - [ ] 8
 - [ ] 9
-- [ ] 10
+- [x] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
@@ -64,7 +64,7 @@ Materials for preparing for the Unified State Exam 2021 and practical files!
 - [ ] 7
 - [ ] 8
 - [ ] 9
-- [ ] 10
+- [x] 10
 - [ ] 11
 - [ ] 12
 - [ ] 13
